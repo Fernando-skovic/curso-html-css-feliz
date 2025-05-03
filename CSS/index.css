@@ -1,7 +1,7 @@
 header {
     display: flex;
     justify-content: space-between;
-    background-color: #371318 ;
+    background-color: #3a4042 ;
     height: 80px;
     border: 10px;
     border-bottom: 10px solid #000;
@@ -61,13 +61,6 @@ a {
     display: none;
 }
 
-h1{
-      
-    font-family: 'Press Start 2P', sans-serif;
-    font-size: 40px;
-    color:#F25A70;
-    text-shadow: 5px 5px 0px #000;
-}
 
 
 
