@@ -1,0 +1,25 @@
+.button{
+    display: inline-block;
+    background-color: #F25A70;
+    height: 60px;
+    line-height: 60px;
+    padding: 10px 20px;
+    box-shadow: 5px 5px 0 black ;
+    margin-right: 0px;
+    color: #FFF;
+    font-size: 20px;
+    text-decoration: none;
+    transition: transform 150ms cubic-bezier(0, 0.91, 1, 0.23);
+
+}
+
+.button:hover{
+
+background-color: aqua;
+transform: scaleX(1.08);
+}
+.button::before{
+
+display: none;
+}
+
