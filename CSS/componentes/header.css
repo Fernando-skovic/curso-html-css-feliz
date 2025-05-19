@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3a4042 ;
+    height: 80px;
+    border: 10px;
+    border-bottom: 10px solid #000;
+    padding: 10px 20px 10px 11px;
+    
+    
+}
+
+.header .navigation{
+
+
+
+    text-align: right;
+}
+
+
