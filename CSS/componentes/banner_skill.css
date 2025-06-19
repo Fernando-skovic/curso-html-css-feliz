@@ -1,0 +1,26 @@
+.banner_skill{
+        
+        background-color: #F25A70;
+        color: #fff;
+        height: 1200px;  
+        padding-top: 50px; 
+        padding-left: 100px;
+        border-bottom: solid #000 10px;      
+
+}
+
+
+
+
+
+
+
+
+.linguagens{
+
+    display:flex;
+    justify-content: space-around;
+    font-size: 30px;
+    font-family: "Press Start 2P", sans-serif;
+    
+}
